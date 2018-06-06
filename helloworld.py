@@ -1,0 +1,6 @@
+print("hello boss")
+print("hello boss")
+print("hello boss")
+print("hello boss")
+print("hello boss", end=" ")
+print("hello boss", end=" ")
