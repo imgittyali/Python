@@ -35,6 +35,11 @@ print(int(8+3.3))
 # Can also be a function
 # EX: exampleVar = print('Oh wow!')
 # Typing exampleVar will output 'Oh wow!' 
+# Unpacking a variable 
+# EX: x,y = (3,5)
+#     print(x) = 3
+#     print(y) = 5
+
 
 exampleVar = print('oh wow!')
 exampleVar
@@ -44,3 +49,7 @@ print(exampleVarr)
 
 exampleVarrr = 66+32
 print(exampleVarrr)
+
+x,y = (3,5)
+print(x)
+print(y)
