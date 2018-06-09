@@ -1,10 +1,18 @@
-#   I just want to write something to look back at for each lesson.  
-#   Int function works with whole numbers only EX: Print(int(8+3.3)) will output 11 only. 
-#   Print(float(8+3.3)) , however, will output the correct amount of 11.3 
-#   Incasing anything in single or double quotes makes the content inside a string. 
-#   we\'re going to use a \ whenever '' is used. Concatentation happens 
-#   when two strings are added to one another. example: Hi + there will result in
-#   hithere.
+#   Writing things for each SentDex tutorial I've undergone: 
+#   Int functions only with integers (Whole number) ways to bypass this is by using Float
+#   Example: Print(Int(8+3.3)) will print only 11 
+#            However, print(float(8+3.3)) will print 11.3
+#   Text inside of single or double quotes makes the content inside it a string
+#   If an apostrophe is needed in a string, adding a backslash before it will not cause any problems
+#   Example: Print('We\'re going to have a great time learning python.)
+#   Concatenating brings things, (strings, links, folders, etc) together in a chain or series
+#   
+# 
+# 
+# 
+# 
+#   Mathematical expressions
+#   +, -, *, /, ** (to the power of)  
 
 
 print('This is me taking python seriously')
