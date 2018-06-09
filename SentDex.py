@@ -20,4 +20,27 @@ print('So.. In order to concatenate, a comma is needed?')
 print('How bout a high 5?')
 print(int(8+3.3))
 
-# this is a trial 
+
+
+# this is a trial
+# 5/68: Variables
+# Used very frequently, perhaps in almost every code written
+# Examples of syntax: exampleVar - "Camel Casing"
+#           example_var
+#           EXAMPLE_VAR 
+# Doesn't matter, camel casing is optimal. 
+# Examples of variables: exampleVar = 66
+#                        Print(exampleVar) will output 66
+# Can also be an equation EX: 66+32 = 98
+# Can also be a function
+# EX: exampleVar = print('Oh wow!')
+# Typing exampleVar will output 'Oh wow!' 
+
+exampleVar = print('oh wow!')
+exampleVar
+
+exampleVarr = 66
+print(exampleVarr)
+
+exampleVarrr = 66+32
+print(exampleVarrr)
