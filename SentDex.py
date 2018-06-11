@@ -28,7 +28,7 @@ print(int(8+3.3))
 # Examples of syntax: exampleVar - "Camel Casing"
 #           example_var
 #           EXAMPLE_VAR 
-# Doesn't matter, camel casing is optimal. 
+# Doesn't matter, camel casing is "improper"
 # Examples of variables: exampleVar = 66
 #                        Print(exampleVar) will output 66
 # Can also be an equation EX: 66+32 = 98
@@ -53,3 +53,4 @@ print(exampleVarrr)
 x,y = (3,5)
 print(x)
 print(y)
+
